@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+dependencies:
+  - cmake
+  - curl
+  - ninja
+  - openssl
+  - python=3.11
+  - boost
+  - r-hash
+  - gsl
+  - anaconda::rhash
+  - eigen
+  - pybind11
+  - hdf5
+  - cxx-compiler
